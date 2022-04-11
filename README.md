@@ -5,12 +5,15 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on MS Azure, Cloud Security, Cloud Migrations
-- 🌱 I’m currently learning Azure Architecture, AI 
-- 👯 I’m looking to collaborate on cloud security and migrations.
+- 🔭 Expertise in consulting, designing, implementing & managing Azure Cloud solutions, its HA, DR and monitoring in most secure way.
+- 🔭 Leading projects for migrating applications & workloads hosted to Public Clouds.
+- 🔭 Cloud architecture, governance, CAF, networking, infrastructure as code, Azure DevOps compliance and security
+- 🔭 Design, write Infrastructure as Code (CI/CD pipelines, ARM templates, Azure policies, Scripts /Runbooks /WebHooks /Tools, terraform, ansible, azure API) to  Manage/Operate end-to-end lifecycle operations (monitoring, alerting, security, governance, cost optimization, updates, configuration, backup & disaster recovery, etc.)
+- 🌱 I’m currently learning Azure Architecture, AI , IoT, ML, Security best practices 
+- 👯 I’m looking to collaborate on cloud security and any challenging thing.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Azure, O365, SharePoint
+- 💬 Ask me about Azure, Cloud Security, DevOps, Cloud Mogration
 - 📫 How to reach me: 
  [LinkedIn](https://www.linkedin.com/in/shankargurav)<!--😄 Pronouns: ...-->
-- ⚡ Fun fact: I was more facinated with Unix world but landed as Microsoft devloper.
+- ⚡ Fun fact: I was more facinated with Unix world but landed as Microsoft techie.
 
