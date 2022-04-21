@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Expertise in consulting, designing, implementing & managing Azure Cloud solutions, its HA, DR and monitoring in most secure way.
+- 🔭 Expertise in consulting, designing, implementing & managing Azure Cloud solutions, especialy cloud native and its HA, DR and monitoring in most secure way.
 - 🔭 Leading projects for migrating applications & workloads hosted to Public Clouds.
 - 🔭 Cloud architecture, governance, CAF, networking, infrastructure as code, Azure DevOps compliance and security
 - 🔭 Design, write Infrastructure as Code (CI/CD pipelines, ARM templates, Azure policies, Scripts /Runbooks /WebHooks /Tools, terraform, ansible, azure API) to  Manage/Operate end-to-end lifecycle operations (monitoring, alerting, security, governance, cost optimization, updates, configuration, backup & disaster recovery, etc.)
